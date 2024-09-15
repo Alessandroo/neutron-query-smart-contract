@@ -14,3 +14,8 @@
 # IDEs
 *.iml
 .idea
+/.cargo/
+/.circleci/
+/.github/
+/artifacts/
+/target/
